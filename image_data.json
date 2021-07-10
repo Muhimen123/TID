@@ -1,3 +1,53 @@
 [
+  {
+    "image_name": "PurpleNeon",
+    "file_type": "jpg",
+    "orientation": 1,
 
+    "height": 2160,
+    "width": 3840,
+
+    "author": "aaron-stark7",
+    "author_link": "https://www.reddit.com/user/aaron-stark7/",
+
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpaper/comments/ogtbd3/1920x1080_purple_neon/",
+
+    "tags": ["neon", "dark", "minimalist", "purple"]
+  },
+
+  {
+    "image_name": "SunArt",
+    "file_type": "jpg",
+    "orientation": 1,
+
+    "height": 2500,
+    "width": 1400,
+
+    "author": "Informal-Ebb-7513",
+    "author_link": "https://www.reddit.com/user/Informal-Ebb-7513/",
+
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpaper/comments/ohfkej/sun_art25601440/",
+
+    "tags": ["dark", "minimalist", "warrior"]
+  },
+
+  {
+    "image_name": "NightCity",
+    "file_type": "png",
+    "orientation": 1,
+
+    "height": 2880,
+    "width": 5120,
+
+    "author": "Aeroscop",
+    "author_link": "https://www.reddit.com/user/Aeroscop/",
+
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpaper/comments/odrqc9/night_city_art_5120x2880/",
+
+    "tags": ["dark", "minimalist", "city"]
+
+  }
 ] 
