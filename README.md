@@ -28,3 +28,11 @@ If you have some good wallpapers to show, feel free to share them here in this r
 Make sure to follow the [contribution](https://github.com/Muhimen123/TID/blob/main/CONTRIBUTING.md) guideline.
 
 ---
+
+<details>
+  <summary>Did you know?</summary>
+  
+  [Tapetti](https://translate.google.com.bd/?sl=auto&tl=en&text=tapetti&op=translate) is a <abbr title="This project is dedicated to a Finnish friend of mine whoose nick name also happens to start with F.">Finnish</abbr> word which means `Wallpaper` in English.
+  
+</details>
+
