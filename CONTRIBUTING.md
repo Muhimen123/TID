@@ -1,29 +1,27 @@
 ## Contribute to TID
 
-First and foremost, thanks for your time and for taking the first steps to contribute.
+:heart: First and foremost, thanks for your time and for taking the first steps to contribute. :heart:
 
-<details>
-  <summary>Fork the Repo</summary>
+ 
+<h2>Fork the Repo</h2>
 
-  First thing first, fork the repo so that you can make necessary changes to the file.
+First thing first, fork the repo so that you can make necessary changes to the file.
 
-  ---
-</details>
+---
 
-<details>
-  <summary>Add a Picture</summary>
+ 
+<h2>Add a Picture</h2>
 
-  Browse to the `images` folder and upload the wallpaper you want to share. Make sure to give it a proper name.
+Browse to the `images` folder and upload the wallpaper you want to share. Make sure to give it a proper name.
 
-  ---
-</details>
+---
 
-<details>
-  <summary>Add Picture Information</summary>
+ 
+<h2>Add Picture Information</h2>
 
-  Open the `image_data.json` file. Inside the square brackets, insert the following snippet(**At the top**).
+Open the `image_data.json` file. Inside the square brackets, insert the following snippet(**At the top**).
 
-  ```json
+```json
 {
   "image_name": ,
   "file_type": ,
@@ -53,4 +51,15 @@ First and foremost, thanks for your time and for taking the first steps to contr
 | author_link | Link to the author(Twitter, Instagram). Can be the same as the source_link.                         |
 
   ---
-</details>
+ 
+
+ 
+<h2>Make a Pull Request</h2>
+
+Once you are happy with the editing, head towards the [pull requests](https://github.com/Muhimen123/TID/pulls) tab. And make the PR. 
+And hopefully it will get accepted with in a short amount of time. 
+---
+ 
+
+Thanks for contributing. Have a good day!!! :smile:
+

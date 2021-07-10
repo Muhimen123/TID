@@ -6,7 +6,7 @@ TID stands for **T**appetti **I**mage **D**irectory. Which is a helper directory
 
 ### What is TID?
 
-Simply put, TID is a directory that holds wallpapers for you to use. Beyond that, you can use Tapetti(Under Construction) to manage your desktop wallpapers which utilize this TID repo.
+Simply put, TID is a directory that holds wallpapers for you to use. Beyond that, you can use Tapetti( :construction: Under Construction :construction: ) to manage your desktop wallpapers which utilize this TID repo.
 
 Feel free to grab any wallpaper you wish.
 
@@ -25,6 +25,6 @@ If you have some good wallpapers to show, feel free to share them here in this r
  - [wallpapers](https://wallpapers.com/)
  - [Google](https://www.google.com/imghp)
 
-Make sure to follow the contribution guideline.
+Make sure to follow the [contribution](https://github.com/Muhimen123/TID/blob/main/CONTRIBUTING.md) guideline.
 
 ---
