@@ -61,6 +61,7 @@ Open the `image_data.json` file. Inside the square brackets, insert the followin
 
 Once you are happy with the editing, head towards the [pull requests](https://github.com/Muhimen123/TID/pulls) tab. And make the PR. 
 And hopefully it will get accepted with in a short amount of time. 
+
 ---
  
 
