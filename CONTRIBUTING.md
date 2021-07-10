@@ -35,6 +35,8 @@ Open the `image_data.json` file. Inside the square brackets, insert the followin
 
   "source": ,
   "source_link": ,
+
+  "tags": []
 },
   ```
 
@@ -49,6 +51,7 @@ Open the `image_data.json` file. Inside the square brackets, insert the followin
 | source_link | Mandatory. The actual download link of the image.                                               |
 | author      | The author of the image. Can be the same as the source.                                             |
 | author_link | Link to the author(Twitter, Instagram). Can be the same as the source_link.                         |
+| tags        | Comma separated values inside the square brackets. Make sure to wrap with quotation(") marks. | 
 
   ---
  
