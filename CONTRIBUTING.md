@@ -25,7 +25,6 @@ Open the `image_data.json` file. Inside the square brackets, insert the followin
 {
   "image_name": ,
   "file_type": ,
-  "orientation": ,
 
   "height": ,
   "width": ,
@@ -37,6 +36,9 @@ Open the `image_data.json` file. Inside the square brackets, insert the followin
   "source_link": ,
 
   "tags": []
+
+  "theme": ,
+  "color": []
 },
   ```
 
@@ -44,7 +46,6 @@ Open the `image_data.json` file. Inside the square brackets, insert the followin
 |-------------|-------------------------------------------------------------------------------------------------|
 | image_name  | Name of the image. Make sure that it matches the name that you used in the image folder         |
 | file_type   | Type of the file. Can be anything. For example png, jpg, jpeg, etc.                             |
-| orientation | Use either 0 or 1. Use 0 if the orientation is vertical. Use 1 if the orientation is horizontal. |
 | height      | Optional. Can be absent. Delete the parameter if you don't give any value.                      |
 | width       | Optional. Can be absent. Delete the parameter if you don't give any value.                      |
 | source      | Mandatory. Source name of the image. Make sure you have the right to use it.                   |
@@ -52,6 +53,8 @@ Open the `image_data.json` file. Inside the square brackets, insert the followin
 | author      | The author of the image. Can be the same as the source.                                             |
 | author_link | Link to the author(Twitter, Instagram). Can be the same as the source_link.                         |
 | tags        | Comma separated values inside the square brackets. Make sure to wrap with quotation(") marks. | 
+| theme       | Main theme of the wallpaper. Can be either `Dark` or `White`                                    |
+| color       | A list of colors used in the wallpaper.                                                         |
 
   ---
  
