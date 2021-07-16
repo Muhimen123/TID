@@ -1,5 +1,60 @@
 [
   {
+    "image_name": "GoldenGateBridge",
+    "file_type": "jpg",
+  
+    "height": 1080,
+    "width": 1920,
+  
+    "author": "Evgeny Tchebotarev",
+    "author_link": "https://unsplash.com/@ev25",
+  
+    "source": "Unsplash",
+    "source_link": "https://unsplash.com/photos/ZPQE4XssoBc",
+  
+    "tags": ["bridge", "architecture"],
+  
+    "theme": "White",
+    "color": ["Brown", "Yellow"]
+  },
+  {
+    "image_name": "leaf",
+    "file_type": "jpg",
+  
+    "height": 3600,
+    "width": 2400,
+  
+    "author": "Allec Gomes",
+    "author_link": "https://unsplash.com/@allecgomes",
+  
+    "source": "Unsplash",
+    "source_link": "https://unsplash.com/photos/3KT9YmFkXT8",
+  
+    "tags": ["minimalist", "nature", "leaf"],
+  
+    "theme": "White",
+    "color": ["Brown", "Orenge"]
+  },
+  {
+    "image_name": "Flower",
+    "file_type": "jpg",
+  
+    "height": 1080,
+    "width": 1920,
+  
+    "author": "HellsJuggernaut",
+    "author_link": "https://www.reddit.com/user/HellsJuggernaut/",
+  
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpapers/comments/okgy1k/livingstone_daisy_dorotheanthus_bellidiformis/",
+  
+    "tags": ["flower", "nature"],
+  
+    "theme": "White",
+    "color": ["Pink", "Green", "Orenge"]
+  },
+
+  {
     "image_name": "PurpleNeon",
     "file_type": "jpg",
 
