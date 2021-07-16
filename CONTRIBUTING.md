@@ -35,7 +35,7 @@ Open the `image_data.json` file. Inside the square brackets, insert the followin
   "source": ,
   "source_link": ,
 
-  "tags": []
+  "tags": [],
 
   "theme": ,
   "color": []
