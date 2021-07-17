@@ -1,5 +1,41 @@
 [
   {
+    "image_name": "Forest",
+    "file_type": "jpg",
+  
+    "height": 2880,
+    "width": 5120,
+  
+    "author": "NatashaFalgout",
+    "author_link": "https://www.reddit.com/user/NatashaFalgout/",
+  
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpaper/comments/ohkktm/minimal_forest5120x3840/",
+  
+    "tags": ["anime"],
+  
+    "theme": "Dark",
+    "color": ["Black", "Dark Blue"]
+  },
+  {
+    "image_name": "AnimeGirl",
+    "file_type": "jpg",
+  
+    "height": 1440,
+    "width": 2560,
+  
+    "author": "dervalinor",
+    "author_link": "https://www.reddit.com/user/dervalinor/",
+  
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpaper/comments/oljl17/beutiful_girl_anime_2560x1440/",
+  
+    "tags": ["anime"],
+  
+    "theme": "Dark",
+    "color": ["Black", "Dark Blue"]
+  },
+  {
     "image_name": "GoldenGateBridge",
     "file_type": "jpg",
   
