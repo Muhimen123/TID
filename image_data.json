@@ -1,5 +1,59 @@
 [
   {
+    "image_name": "ForestRoad",
+    "file_type": "jpg",
+  
+    "height": 4000,
+    "width": 6000,
+  
+    "author": "HellsJuggernaut",
+    "author_link": "https://www.reddit.com/user/HellsJuggernaut/",
+  
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpapers/comments/omg0i9/jasper_national_park_of_canada_jasper_alberta/",
+  
+    "tags": ["Road", "Tree", "Forest"],
+  
+    "theme": "White",
+    "color": ["Green", "Black", "Grey"]
+  },
+  {
+    "image_name": "BlackHole",
+    "file_type": "png",
+  
+    "height": 1400,
+    "width": 2560,
+  
+    "author": "price_capt",
+    "author_link": "https://www.reddit.com/user/price_capt/",
+  
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpapers/comments/om7siz/small_things_2560_x_1440/",
+  
+    "tags": ["Fantasy", "Tree", "Black Hole"],
+  
+    "theme": "White",
+    "color": ["Brown", "White", "Blue"]
+  },
+  {
+    "image_name": "Retro",
+    "file_type": "jpg",
+  
+    "height": 2400,
+    "width": 3840,
+  
+    "author": "SafariFruitsOk",
+    "author_link": "https://www.reddit.com/user/SafariFruitsOk/",
+  
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpapers/comments/omtifx/retro_3840x2400/",
+  
+    "tags": ["Tech", "Gaming"],
+  
+    "theme": "Dark",
+    "color": ["Pink", "White"]
+  },
+  {
     "image_name": "Forest",
     "file_type": "jpg",
   
@@ -89,7 +143,6 @@
     "theme": "White",
     "color": ["Pink", "Green", "Orenge"]
   },
-
   {
     "image_name": "PurpleNeon",
     "file_type": "jpg",
@@ -108,7 +161,6 @@
     "theme": "Dark",
     "color": ["Purple"]
   },
-
   {
     "image_name": "SunArt",
     "file_type": "jpg",
@@ -127,7 +179,6 @@
     "theme": "Dark",
     "color": ["Orenge"]
   },
-
   {
     "image_name": "NightCity",
     "file_type": "png",
