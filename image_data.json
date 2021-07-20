@@ -1,5 +1,77 @@
 [
   {
+    "image_name": "DraculaLinux",
+	"file_type": "png",
+
+	"height": 8001,
+	"width": 4501,
+
+	"author": "draculatheme.org",
+	"author_link": "https://draculatheme.com/wallpaper",
+
+	"source": "draculatheme.org",
+	"source_link": "https://draculatheme.com/wallpaper",
+
+	"tags": ["dracula, minimalistic", "linux"],
+
+	"theme": "Dark",
+	"color": ["Purple", "Black", "Grey"]
+  },
+  {
+    "image_name": "DraculaWindows",
+	"file_type": "png",
+
+	"height": 8001,
+	"width": 4501,
+
+	"author": "draculatheme.org",
+	"author_link": "https://draculatheme.com/wallpaper",
+
+	"source": "draculatheme.org",
+	"source_link": "https://draculatheme.com/wallpaper",
+
+	"tags": ["dracula, minimalistic", "windows"],
+
+	"theme": "Dark",
+	"color": ["Purple", "Black", "Grey"]
+  },
+  {
+    "image_name": "DraculaMacOs",
+	"file_type": "png",
+
+	"height": 8001,
+	"width": 4501,
+
+	"author": "draculatheme.org",
+	"author_link": "https://draculatheme.com/wallpaper",
+
+	"source": "draculatheme.org",
+	"source_link": "https://draculatheme.com/wallpaper",
+
+	"tags": ["dracula, minimalistic", "mac"],
+
+	"theme": "Dark",
+	"color": ["Purple", "Black", "Grey"]
+  },
+  {
+    "image_name": "Dracula",
+	"file_type": "png",
+
+	"height": 8001,
+	"width": 4501,
+
+	"author": "draculatheme.org",
+	"author_link": "https://draculatheme.com/wallpaper",
+
+	"source": "draculatheme.org",
+	"source_link": "https://draculatheme.com/wallpaper",
+
+	"tags": ["dracula, minimalistic"],
+
+	"theme": "Dark",
+	"color": ["Purple", "Black", "Grey"]
+  },
+  {
     "image_name": "ForestRoad",
     "file_type": "jpg",
   
@@ -177,7 +249,7 @@
     "tags": ["minimalist", "warrior"],
 
     "theme": "Dark",
-    "color": ["Orenge"]
+    "color": ["Orange"]
   },
   {
     "image_name": "NightCity",
