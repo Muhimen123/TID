@@ -1,6 +1,60 @@
 [
   {
-    "image_name": "DraculaLinux",
+    "image_name": "WatchTower",
+    "file_type": "png",
+  
+    "width": 1920,
+    "height": 1200,
+  
+    "author": "Daft-ManiaQ",
+    "author_link": "https://www.reddit.com/user/Daft-ManiaQ/",
+  
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpaper/comments/on4w2n/minimal_watchtower1920_x_1200",
+  
+    "tags": ["art", "nature"],
+  
+    "theme": "Dark",
+    "color": ["Blue", "Purple"]
+  },
+  {
+    "image_name": "PeacefulWater",
+    "file_type": "jpg",
+  
+    "width": 1920,
+    "height": 1080,
+  
+    "author": "Automatic_Name5545",
+    "author_link": "https://www.reddit.com/user/Automatic_Name5545/",
+  
+    "source": "reddit",
+    "source_link": "https://www.reddit.com/r/wallpaper/comments/op8xpu/peaceful_waters_19201080/",
+  
+    "tags": ["art", "fantasy"],
+  
+    "theme": "Dark",
+    "color": ["Green", "Light Blue"]
+  },
+  {
+  "image_name": "AttackOnTitan",
+	"file_type": "jpg",
+
+	"width": 2552,
+	"height": 1442,
+
+	"author": "Informal-Ebb-7513",
+	"author_link": "https://www.reddit.com/user/Informal-Ebb-7513/",
+
+	"source": "reddit",
+	"source_link": "https://www.reddit.com/r/wallpaper/comments/op972v/attack_of_titan25601440/",
+
+	"tags": ["anime", "fantasy", "fight"],
+
+	"theme": "White",
+	"color": ["Light Pink"]
+  },
+  {
+  "image_name": "DraculaLinux",
 	"file_type": "png",
 
 	"width": 8001,
@@ -12,13 +66,13 @@
 	"source": "draculatheme.org",
 	"source_link": "https://draculatheme.com/wallpaper",
 
-	"tags": ["dracula, minimalistic", "linux"],
+	"tags": ["dracula", "minimalistic", "linux"],
 
 	"theme": "Dark",
 	"color": ["Purple", "Black", "Grey"]
   },
   {
-    "image_name": "DraculaWindows",
+  "image_name": "DraculaWindows",
 	"file_type": "png",
 
 	"width": 8001,
@@ -30,13 +84,13 @@
 	"source": "draculatheme.org",
 	"source_link": "https://draculatheme.com/wallpaper",
 
-	"tags": ["dracula, minimalistic", "windows"],
+	"tags": ["dracula", "minimalistic", "windows"],
 
 	"theme": "Dark",
 	"color": ["Purple", "Black", "Grey"]
   },
   {
-    "image_name": "DraculaMacOs",
+  "image_name": "DraculaMacOs",
 	"file_type": "png",
 
 	"width": 8001,
@@ -48,13 +102,13 @@
 	"source": "draculatheme.org",
 	"source_link": "https://draculatheme.com/wallpaper",
 
-	"tags": ["dracula, minimalistic", "mac"],
+	"tags": ["dracula", "minimalistic", "mac"],
 
 	"theme": "Dark",
 	"color": ["Purple", "Black", "Grey"]
   },
   {
-    "image_name": "Dracula",
+  "image_name": "Dracula",
 	"file_type": "png",
 
 	"width": 8001,
@@ -66,7 +120,7 @@
 	"source": "draculatheme.org",
 	"source_link": "https://draculatheme.com/wallpaper",
 
-	"tags": ["dracula, minimalistic"],
+	"tags": ["dracula", "minimalistic"],
 
 	"theme": "Dark",
 	"color": ["Purple", "Black", "Grey"]
