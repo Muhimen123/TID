@@ -1,5 +1,95 @@
 [
   {
+    "image_name": "pixelmoon",
+    "file_type": "png",
+  
+    "width": 2560,
+    "height": 1500,
+  
+    "author": "dxnst",
+    "author_link": "https://github.com/dxnst",
+  
+    "source": "github",
+    "source_link": "https://github.com/dxnst/nord-wallpapers",
+  
+    "tags": ["nord", "art", "nature", "pixelart", "moon"],
+  
+    "theme": "Dark",
+    "color": ["White", "Grey"]
+  },
+  {
+    "image_name": "rocket",
+    "file_type": "png",
+  
+    "width": 2200,
+    "height": 1375,
+  
+    "author": "dxnst",
+    "author_link": "https://github.com/dxnst",
+  
+    "source": "github",
+    "source_link": "https://github.com/dxnst/nord-wallpapers",
+  
+    "tags": ["nord", "art", "science", "technology", "rocket"],
+  
+    "theme": "Dark",
+    "color": ["Red", "Grey", "Orange", "Yellow", "Green", "Pink"]
+  },
+  {
+    "image_name": "the-great-wave",
+    "file_type": "png",
+  
+    "width": 3840,
+    "height": 2160,
+  
+    "author": "dxnst",
+    "author_link": "https://github.com/dxnst",
+  
+    "source": "github",
+    "source_link": "https://github.com/dxnst/nord-wallpapers",
+  
+    "tags": ["nord", "art", "nature", "water", "sea"],
+  
+    "theme": "Dark",
+    "color": ["Blue", "Grey"]
+  },
+  {
+    "image_name": "underwater",
+    "file_type": "png",
+  
+    "width": 1920,
+    "height": 1080,
+  
+    "author": "dxnst",
+    "author_link": "https://github.com/dxnst",
+  
+    "source": "github",
+    "source_link": "https://github.com/dxnst/nord-wallpapers",
+  
+    "tags": ["nord", "art", "nature", "water", "sea"],
+  
+    "theme": "Dark",
+    "color": ["Blue", "Grey"]
+  },
+  {
+    "image_name": "wild",
+    "file_type": "png",
+  
+    "width": 2560,
+    "height": 1440,
+  
+    "author": "dxnst",
+    "author_link": "https://github.com/dxnst",
+  
+    "source": "github",
+    "source_link": "https://github.com/dxnst/nord-wallpapers",
+  
+    "tags": ["nord", "art", "nature", "wild", "wolf"],
+  
+    "theme": "Dark",
+    "color": ["Blue", "Grey"]
+  },
+  {
     "image_name": "WatchTower",
     "file_type": "png",
   
