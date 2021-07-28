@@ -1,6 +1,6 @@
 ## TID
 
-TID stands for **T**appetti **I**mage **D**irectory. Which is a helper directory for [Tapetti](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+TID stands for **T**appetti **I**mage **D**irectory. Which is a helper directory for [Tapetti](https://github.com/Muhimen123/tapetti).
 
 ---
 
